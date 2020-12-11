@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Assignment_Juan",
+			"Path": "C:\\Users\\juand\\OneDrive\\Documents\\semester 3\\Game engine\\Assignment_Juan\\Source\\Assignment_Juan.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Assignment_JuanEditor",
+			"Path": "C:\\Users\\juand\\OneDrive\\Documents\\semester 3\\Game engine\\Assignment_Juan\\Source\\Assignment_JuanEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

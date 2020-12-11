@@ -1,0 +1,2 @@
+C:\Users\juand\OneDrive\Documents\semester 3\Game engine\Assignment_Juan\Intermediate\Build\Win64\UE4Editor\Development\Assignment_Juan\Definitions.Assignment_Juan.h
+C:\Users\juand\OneDrive\Documents\semester 3\Game engine\Assignment_Juan\Source\Assignment_Juan\Assignment_Juan.h

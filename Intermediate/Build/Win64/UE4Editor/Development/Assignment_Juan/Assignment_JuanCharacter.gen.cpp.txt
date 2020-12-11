@@ -1,0 +1,9 @@
+C:\Users\juand\OneDrive\Documents\semester 3\Game engine\Assignment_Juan\Intermediate\Build\Win64\UE4Editor\Development\Assignment_Juan\Definitions.Assignment_Juan.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\juand\OneDrive\Documents\semester 3\Game engine\Assignment_Juan\Source\Assignment_Juan/Assignment_JuanCharacter.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\juand\OneDrive\Documents\semester 3\Game engine\Assignment_Juan\Intermediate\Build\Win64\UE4Editor\Inc\Assignment_Juan\Assignment_JuanCharacter.generated.h

@@ -1,0 +1,3 @@
+C:\Users\juand\OneDrive\Documents\semester 3\Game engine\Assignment_Juan\Intermediate\Build\Win64\UE4Editor\Development\Assignment_Juan\Definitions.Assignment_Juan.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
